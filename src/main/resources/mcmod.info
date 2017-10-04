@@ -1,0 +1,16 @@
+[
+{
+  "modid": "gui",
+  "name": "Digital Youth Administration Tools",
+  "description": "GUIs and Tools to help administer a minecraft server from in game",
+  "version": "1",
+  "mcversion": "1.8.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Dom Amato"],
+  "credits": "Digital Youth Network",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
